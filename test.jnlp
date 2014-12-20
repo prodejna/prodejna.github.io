@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+"
+  codebase="http://www.prodejna.biz/">
+<information>
+  <title>Testovaci</title>
+  <vendor>Ja jsem vendor</vendor>
+  <homepage href="http://www.prodejna.biz" />
+  <description>Demonstration of JNLP</description>
+</information>
+<offline-allowed/>
+<resources>
+  <j2se version="1.6+" />
+  <jar href="test.jar"/>
+</resources>
+<application-desc main-class="TableSelectAll" />
+</jnlp>
+

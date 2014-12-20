@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>katalog</title>
+   	<link>.</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>nahled</title>
+            <link>nahled.png#</link>
+            <pubDate>Sat, 04 May 2013 20:12:34 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/nahled.png" width="90" height="90"/>
+            <media:content type="image/png" url="nahled.png" width="1029" height="723"/>
+            <guid isPermaLink="false">nahled.png</guid>
+        </item>
+        <item>
+            <title>detail</title>
+            <link>detail.png#</link>
+            <pubDate>Sat, 04 May 2013 20:12:34 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/detail.png" width="90" height="90"/>
+            <media:content type="image/png" url="detail.png" width="1023" height="724"/>
+            <guid isPermaLink="false">detail.png</guid>
+        </item>
+        <item>
+            <title>priloha</title>
+            <link>priloha.png#</link>
+            <pubDate>Sat, 04 May 2013 20:12:34 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/priloha.png" width="90" height="90"/>
+            <media:content type="image/png" url="priloha.png" width="1032" height="724"/>
+            <guid isPermaLink="false">priloha.png</guid>
+        </item>
+        <item>
+            <title>caret</title>
+            <link>caret.png#</link>
+            <pubDate>Sat, 04 May 2013 20:12:34 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/caret.png" width="90" height="90"/>
+            <media:content type="image/png" url="caret.png" width="1028" height="724"/>
+            <guid isPermaLink="false">caret.png</guid>
+        </item>
+        <item>
+            <title>objednavka</title>
+            <link>objednavka.png#</link>
+            <pubDate>Sat, 04 May 2013 20:12:34 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/objednavka.png" width="90" height="90"/>
+            <media:content type="image/png" url="objednavka.png" width="1032" height="723"/>
+            <guid isPermaLink="false">objednavka.png</guid>
+        </item>
+    </channel>
+</rss>
